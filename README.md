@@ -130,8 +130,15 @@ DM: `@yourusername`
 ## 📥 ইনস্টল করার নিয়ম  
 
 ```bash
+1. Clone or Download the Tool
+git clone https://github.com/DEVIL-DOOR/iNFiNiTY-BRN-X-INFO.git
+cd iNFiNiTY-BRN-X-INFO
+
+2. Install Required Package
 pip install requests
-python brn_info_tool_color.py
+
+3. Run the Tool
+python iNFiNiTY-BRN-X.py
 ```
 
 > **Windows ইউজারদের জন্য:** `.exe` ফাইল ডাউনলোড করুন → ডাবল ক্লিক → চালান!  
