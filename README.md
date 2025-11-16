@@ -45,7 +45,7 @@ cd iNFiNiTY-BRN-X-INFO
 pip install requests
 
 # 3. Run the Tool
-python iNFiNiTY-BRN-X-INFO.py
+python iNFiNiTY-BRN-X.py
 ```
 
 > **For Windows (.exe - No Python Needed)**  
