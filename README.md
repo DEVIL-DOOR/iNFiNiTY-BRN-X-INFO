@@ -39,13 +39,13 @@
 ```bash
 # 1. Clone or Download the Tool
 git clone https://github.com/DEVIL-DOOR/iNFiNiTY-BRN-X-INFO.git
-cd infinity-error-brn-tool
+cd iNFiNiTY-BRN-X-INFO
 
 # 2. Install Required Package
 pip install requests
 
 # 3. Run the Tool
-python iNFiNiTY-BRN-X.py
+python iNFiNiTY-BRN-X-INFO.py
 ```
 
 > **For Windows (.exe - No Python Needed)**  
